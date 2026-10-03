@@ -1,0 +1,9 @@
+.git
+.next
+.next - Copy
+node_modules
+node_modules - Copy
+* - Copy*
+*-Copy*
+*.zip
+tests
